@@ -5,6 +5,8 @@ Retrieving a single one of these pills, indeed "Softgels", is, from experience, 
 
 The most simple solution to this first world, urban problem is a gate which limits the flow of the gels by reducing their exit diameter. Introducing a curved neck to the gate should theoretically help orient only a single gel towards the exit, rather than none or more than one, but I eyeballed the neck shape and thickness, so no guarantees.
 
+[[photos/cad-gate-top.png]]
+
 [[file:photos/gate-top.jpeg][Top view of gate]]
 
 [[file:photos/gate-bottom.jpeg][Bottom view of gate]]
