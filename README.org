@@ -5,17 +5,17 @@ Retrieving a single one of these pills, indeed "Softgels", is, from experience, 
 
 The most simple solution to this first world, urban problem is a gate which limits the flow of the gels by reducing their exit diameter. Introducing a curved neck to the gate should theoretically help orient only a single gel towards the exit, rather than none or more than one, but I eyeballed the neck shape and thickness, so no guarantees.
 
-[[photos/cad-gate-top.png]]
+[[photos/cad-gate-top.png]] [[photos/cad-gate-bottom.png]]
 
-[[file:photos/gate-top.jpeg][Top view of gate]]
+[[file:photos/gate-top.jpeg]]
 
-[[file:photos/gate-bottom.jpeg][Bottom view of gate]]
+[[file:photos/gate-bottom.jpeg]]
 
-[[file:photos/bottle-wo-lid.jpeg][Bottle without lid]]
+[[file:photos/bottle-wo-lid.jpeg]]
 
-[[file:photos/bottle-with-gate.jpeg][Bottle with gate]]
+[[file:photos/bottle-with-gate.jpeg]]
 
-[[file:photos/bottle-with-lid-gate.jpeg][Bottle with gate and lid]]
+[[file:photos/bottle-with-lid-gate.jpeg]]
 
 Rather than spending more time than appropriate creating a mechanism and an entirely new lid, this gate sits under the current lid, raising the lid only 1mm, and is secured by a press fit and its rim. The increase in lid height is not noticeable and does not affect the integrity of the screw mate between the lid and the bottle. I'd recommend using a lever e.g. a key to wedge the gate out of the bottle.
 
