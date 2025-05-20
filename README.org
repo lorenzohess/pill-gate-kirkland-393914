@@ -1,0 +1,22 @@
+* Pill Gate for Kirkland Vitamin D Bottle
+This pill gate increases the convenience with which one can retrieve a single Vitamin D pill as provided in Costco's Item 393914, "Kirkland Signature Extra Strength D3 50 mcg., 600 Softgels".
+
+Retrieving a single one of these pills, indeed "Softgels", is, from experience, notoriously difficult and more time-consuming than it should be. The texture of the gel reduces grip and "[[https://en.wikipedia.org/wiki/Cohesion_(chemistry)][cohesion]]", and it's too small for fingers to quickly identify and then isolate one out of many. Also, given the lack of "cohesion", tipping the bottle to help grab a gel often yields multiple, some of which land on the floor, and are hard to find given their translucence.
+
+The most simple solution to this first world, urban problem is a gate which limits the flow of the gels by reducing their exit diameter. Introducing a curved neck to the gate should theoretically help orient only a single gel towards the exit, rather than none or more than one, but I eyeballed the neck shape and thickness, so no guarantees.
+
+[[file:photos/gate-top.jpeg][Top view of gate]]
+
+[[file:photos/gate-bottom.jpeg][Bottom view of gate]]
+
+[[file:photos/bottle-wo-lid.jpeg][Bottle without lid]]
+
+[[file:photos/bottle-with-gate.jpeg][Bottle with gate]]
+
+[[file:photos/bottle-with-lid-gate.jpeg][Bottle with gate and lid]]
+
+Rather than spending more time than appropriate creating a mechanism and an entirely new lid, this gate sits under the current lid, raising the lid only 1mm, and is secured by a press fit and its rim. The increase in lid height is not noticeable and does not affect the integrity of the screw mate between the lid and the bottle. I'd recommend using a lever e.g. a key to wedge the gate out of the bottle.
+
+In practice, this gate works pretty well. Regarding failures, my experience is that getting no gels is uncommon (5%?). Note that the gate can let multiple gels through if you dump into an open hand, so use a finger at the gate exit to receive the first gel and stop the rest.
+
+CAD model in Onshape: https://cad.onshape.com/documents/ff6d30d795fb6ce55666f965/w/d472d2acdb05ebcad777cb52/e/e21b0e09cbdb90394e42fc5d
